@@ -1,0 +1,5 @@
+.sln
+.sln.DotSettings.user
+bin/
+obj/
+.csproj
